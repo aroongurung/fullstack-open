@@ -1,0 +1,24 @@
+h1 {
+    color:green;
+    font-style: italic;
+}
+li {
+  color: grey;
+  padding-top: 3px;
+  font-size: 15px;
+}
+.notification {
+  border: 2px solid;
+  border-radius: 5px;
+  background: rgb(168, 167, 167);
+  padding: 16px;
+
+}
+
+.success {
+  color:green
+}
+
+.error {
+  color:red;
+}
